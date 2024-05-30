@@ -1,3 +1,4 @@
+# Sentiment Analysis of KIPK Recipients based on Tweets from X
 | Model        |         Generic        |          GloVe         |          FastText      |
 | -----------  | ---------------------- | ---------------------- | ---------------------- |
 | LSTM         |     0.768              |        0.761           |        0.782           |
