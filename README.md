@@ -26,7 +26,7 @@
 
 <div style="text-align: center;">
   <a href="https://lookerstudio.google.com/reporting/1cd78423-a8d7-496f-bea2-35fce8ee06f7/page/ynr1D" target="_blank">
-    <img src="https://github.com/rizky-22017-mhs-unesa-ac-id/Sentiment-Analysis-of-KIPK-Recipients-based-on-Tweets-from-X/assets/82692777/b3de571a-a592-4413-abef-b8bb67a2dbd8" alt="Untitled video" />
+    <img src="https://github.com/rizky-22017-mhs-unesa-ac-id/Sentiment-Analysis-of-KIPK-Recipients-based-on-Tweets-from-X/assets/82692777/51713151-99b4-4efc-8fea-3d60809cf506" alt="Untitled video" />
   </a>
 </div>
 
