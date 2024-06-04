@@ -22,13 +22,18 @@
   </ul>
 </details>
 
-## Report
-https://lookerstudio.google.com/reporting/1cd78423-a8d7-496f-bea2-35fce8ee06f7/page/ynr1D
+<div align="center">
+  <h2>Report</h2>
+</div>
 
-![Untitled video](https://github.com/rizky-22017-mhs-unesa-ac-id/Sentiment-Analysis-of-KIPK-Recipients-based-on-Tweets-from-X/assets/82692777/b3de571a-a592-4413-abef-b8bb67a2dbd8)
+<div style="text-align: center;">
+  <a href="https://lookerstudio.google.com/reporting/1cd78423-a8d7-496f-bea2-35fce8ee06f7/page/ynr1D" target="_blank">
+    <img src="https://github.com/rizky-22017-mhs-unesa-ac-id/Sentiment-Analysis-of-KIPK-Recipients-based-on-Tweets-from-X/assets/82692777/b3de571a-a592-4413-abef-b8bb67a2dbd8" alt="Untitled video" />
+  </a>
+</div>
 
 
-https://github.com/rizky-22017-mhs-unesa-ac-id/Sentiment-Analysis-of-KIPK-Recipients-based-on-Tweets-from-X/assets/82692777/fda342fb-95c2-4187-9246-c541bd9f59a1
+
 
 
 
