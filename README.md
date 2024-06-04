@@ -17,14 +17,12 @@
     <li><a href="#Referensi">referensi</a></li>
     <li><a href="#Literatur">referensi</a></li>
     <li><a href="#License">Lisensi</a></li>
-    <li><a href="#File">File</a></li>
+    <li><a href="#Report">Report</a></li>
     <li><a href="#Teams">Teams</a></li>
   </ul>
 </details>
 
-<div align="center">
-  <h2>Report</h2>
-</div>
+## Report
 
 <div style="text-align: center;">
   <a href="https://lookerstudio.google.com/reporting/1cd78423-a8d7-496f-bea2-35fce8ee06f7/page/ynr1D" target="_blank">
