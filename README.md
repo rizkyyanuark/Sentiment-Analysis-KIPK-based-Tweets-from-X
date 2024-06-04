@@ -7,6 +7,7 @@
   </blockquote>
 </div>
 
+
 <details>
   <summary>🏁 Table of Contents</summary>
   <ul>
@@ -42,7 +43,7 @@ dapat dilihat dari tabel diatas bahwa kombinasi biLSTM dengan glove memberikan a
 
 <div style="text-align: center;">
   <a href="https://lookerstudio.google.com/reporting/1cd78423-a8d7-496f-bea2-35fce8ee06f7/page/ynr1D" target="_blank">
-    <img src="https://github.com/rizky-22017-mhs-unesa-ac-id/Sentiment-Analysis-of-KIPK-Recipients-based-on-Tweets-from-X/assets/82692777/51713151-99b4-4efc-8fea-3d60809cf506" alt="Untitled video" />
+    <img src="https://github.com/rizky-22017-mhs-unesa-ac-id/Sentiment-Analysis-of-KIPK-Recipients-based-on-Tweets-from-X/assets/82692777/3d996ddc-142a-4138-8888-0d2711dca0ae" alt="Untitled video" />
   </a>
 </div>
 
