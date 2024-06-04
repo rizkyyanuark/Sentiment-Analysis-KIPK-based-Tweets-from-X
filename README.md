@@ -44,3 +44,25 @@
 | biLSTM       |     0.75               |     **0.795**⭐        |        0.778           |
 
 dapat dilihat dari tabel diatas bahwa kombinasi biLSTM dengan glove memberikan akurasi tertinggi.😊
+
+## Teams
+
+<div align="center">
+  <table style="margin: auto;">
+    <tr>
+      <td align="center">
+  <a href="https://github.com/rizkyyanuark">
+    <img src="https://avatars.githubusercontent.com/u/82692777?v=4" width="100px;" alt="RizkyYanuarK"/>
+  </a>
+  <br />
+  <sub>RizkyYanuarK</sub>
+</td>
+<td align="center">
+  <a href="https://github.com/Dianayuww">
+    <img src="https://avatars.githubusercontent.com/u/167867871?v=4" width="100px;" alt="Dian Ayu Fauziah"/>
+  </a>
+  <br />
+  <sub>Dian Ayu Fauziah</sub>
+</td>
+  </table>
+</div>
