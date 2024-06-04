@@ -12,7 +12,7 @@
   <summary>🏁 Table of Contents</summary>
   <ul>
     <li><a href="#Dataset">Dataset</a></li>
-    <li><a href="#Metode-yang-Digunakan">Teknologi yang Digunakan</a>
+    <li><a href="#Metode-yang-Digunakan">Metode yang Digunakan</a>
     </li>
     <li><a href="#Referensi">referensi</a></li>
     <li><a href="#Literatur">referensi</a></li>
@@ -25,6 +25,22 @@
 
 
 ## **Dataset**
+
+
+
+## **Metode yang Digunakan**
+
+
+
+## **Referensi**
+
+
+
+## **Literatur**
+
+
+
+## **License**
 
 
 
