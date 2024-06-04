@@ -30,4 +30,4 @@
 | GRU          |     0.761              |        0.766           |        0.78            |
 | biLSTM       |     0.75               |     **0.795**⭐        |        0.778           |
 
-As seen above the biLSTM + GloVe models give the highest accuracy.
+dapat dilihat dari tabel diatas bahwa kombinasi biLSTM dengan glove memberikan akurasi tertinggi.😊
