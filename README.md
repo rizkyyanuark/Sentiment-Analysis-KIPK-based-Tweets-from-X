@@ -7,31 +7,40 @@
   </blockquote>
 </div>
 
+
 <details>
   <summary>🏁 Table of Contents</summary>
   <ul>
     <li><a href="#Dataset">Dataset</a></li>
-    <li><a href="#Teknologi-yang-Digunakan">Teknologi yang Digunakan</a>
+    <li><a href="#Metode-yang-Digunakan">Metode yang Digunakan</a>
     </li>
-    <li><a href="#Infografik">Kontribusi</a></li>
     <li><a href="#Referensi">referensi</a></li>
     <li><a href="#Literatur">referensi</a></li>
     <li><a href="#License">Lisensi</a></li>
+    <li><a href="#Benchmark-Model-Accuracy-Results">LBenchmark Model Accuracy Results</a></li>
     <li><a href="#Report">Report</a></li>
     <li><a href="#Teams">Teams</a></li>
   </ul>
 </details>
 
-## Report
 
-<div style="text-align: center;">
-  <a href="https://lookerstudio.google.com/reporting/1cd78423-a8d7-496f-bea2-35fce8ee06f7/page/ynr1D" target="_blank">
-    <img src="https://github.com/rizky-22017-mhs-unesa-ac-id/Sentiment-Analysis-of-KIPK-Recipients-based-on-Tweets-from-X/assets/82692777/b3de571a-a592-4413-abef-b8bb67a2dbd8" alt="Untitled video" />
-  </a>
-</div>
+## **Dataset**
 
 
 
+## **Metode yang Digunakan**
+
+
+
+## **Referensi**
+
+
+
+## **Literatur**
+
+
+
+## **License**
 
 
 
@@ -45,7 +54,17 @@
 
 dapat dilihat dari tabel diatas bahwa kombinasi biLSTM dengan glove memberikan akurasi tertinggi.😊
 
-## Teams
+
+## **Report**
+
+<div style="text-align: center;">
+  <a href="https://lookerstudio.google.com/reporting/1cd78423-a8d7-496f-bea2-35fce8ee06f7/page/ynr1D" target="_blank">
+    <img src="https://github.com/rizky-22017-mhs-unesa-ac-id/Sentiment-Analysis-of-KIPK-Recipients-based-on-Tweets-from-X/assets/82692777/3d996ddc-142a-4138-8888-0d2711dca0ae" alt="Untitled video" />
+  </a>
+</div>
+
+
+## **Teams**
 
 <div align="center">
   <table style="margin: auto;">
