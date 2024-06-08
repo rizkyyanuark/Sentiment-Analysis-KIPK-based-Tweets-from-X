@@ -29,6 +29,7 @@
 
 
 ## **Metode yang Digunakan**
+![Picture1](https://github.com/rizky-22017-mhs-unesa-ac-id/Sentiment-Analysis-of-KIPK-Recipients-based-on-Tweets-from-X/assets/82692777/6fc06fc3-8c73-4a5f-b4d0-05d059b0f6c3)
 
 
 
