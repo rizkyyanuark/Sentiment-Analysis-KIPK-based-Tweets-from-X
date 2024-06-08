@@ -17,7 +17,7 @@
     <li><a href="#Referensi">referensi</a></li>
     <li><a href="#Literatur">referensi</a></li>
     <li><a href="#License">Lisensi</a></li>
-    <li><a href="#Benchmark-Model-Accuracy-Results">LBenchmark Model Accuracy Results</a></li>
+    <li><a href="#Benchmark-Model-Accuracy-Results">Benchmark Model Accuracy Results</a></li>
     <li><a href="#Report">Report</a></li>
     <li><a href="#Teams">Teams</a></li>
   </ul>
