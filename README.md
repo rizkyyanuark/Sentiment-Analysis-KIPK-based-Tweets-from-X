@@ -33,15 +33,16 @@
 
 
 ## **Referensi**
-
-
+ * https://github.com/louisowen6/NLP_bahasa_resources
+ * https://github.com/onpilot/sentimen-bahasa?tab=readme-ov-file
+ * https://github.com/ShinyQ/Final-IFest-2021_Analisis-Sentimen-Kebijakan-PPKM-Pemerintah-IndoBERT-IndoBERTweet/tree/main
 
 ## **Literatur**
-
+ * https://link.springer.com/content/pdf/10.1007/s00521-022-08186-1.pdf
 
 
 ## **License**
-
+MIT
 
 
 ## **Benchmark Model Accuracy Results**
