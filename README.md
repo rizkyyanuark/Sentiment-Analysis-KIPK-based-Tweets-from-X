@@ -42,9 +42,8 @@ Dataset test digunakan untuk menguji kinerja model yang telah dilatih. Dataset i
 
 1. **Scraped Twitter Data**:
     - **Deskripsi**: Dataset ini berisi tweet-tweet terbaru yang dikumpulkan dengan menggunakan teknik web scraping dari Twitter. Tweet-tweet ini berhubungan dengan penerima KIPK dan opini mereka.
-    - **Jumlah Data**: ±10.000 tweet
-    - **Metode Scraping**: Menggunakan Tweepy dan BeautifulSoup
-    - **Tanggal Pengumpulan**: Januari 2024
+    - **Jumlah Data**: ±4.000 tweet
+    - **Tanggal Pengumpulan**: Mei 2024
     - **Scraper**: [Blog](https://helmisatria.com/blog/updated-crawl-data-twitter-x-maret-2024)
 
 ### Tujuan Penggunaan Dataset
