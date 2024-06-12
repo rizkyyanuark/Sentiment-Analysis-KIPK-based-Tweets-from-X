@@ -50,7 +50,6 @@ Dataset Scraping digunakan untuk mengetahui sentimen dengan model yang telah dil
 - **Dataset Train**: Melatih model untuk mengenali dan mengklasifikasikan sentimen dari tweet.
 - **Dataset Scrape**: Dataset hasil scraping ini akan digunakan untuk menganalisis sentimen publik dengan model yang telah dilatih menggunakan dataset pelatihan.
 
-Dengan pembagian dataset ini, kami dapat memastikan bahwa model yang dibangun dapat memprediksi sentimen dengan akurat baik pada data yang dikenal maupun data baru.
 
 ## Metode yang Digunakan
 ![Metode yang Digunakan](https://github.com/rizky-22017-mhs-unesa-ac-id/Sentiment-Analysis-of-KIPK-Recipients-based-on-Tweets-from-X/assets/82692777/6fc06fc3-8c73-4a5f-b4d0-05d059b0f6c3)
@@ -85,7 +84,11 @@ Dapat dilihat dari tabel di atas bahwa kombinasi biLSTM dengan GloVe memberikan 
 </div>
 
 ## Hasil Analisis
-Berdasarkan hasil analisis sentimen, Universitas Diponegoro menjadi pusat perhatian di Twitter. Dalam rentang waktu 10 Juli 2023 hingga 30 April 2024, Universitas Diponegoro paling banyak mendapatkan mention dengan kata kunci ‘KIPK’. Hal ini menunjukkan bahwa ada banyak diskusi dan minat yang signifikan terkait dengan Universitas Diponegoro dan program KIPK selama periode tersebut
+<div align="center">
+  <p>
+    Berdasarkan hasil analisis sentimen, <strong>Universitas Diponegoro</strong> menjadi pusat perhatian di Twitter. Dalam rentang waktu 10 Juli 2023 hingga 30 April 2024, Universitas Diponegoro paling banyak mendapatkan mention dengan kata kunci <strong>‘KIPK’</strong>. Hal ini menunjukkan bahwa ada banyak diskusi dan minat yang signifikan terkait dengan Universitas Diponegoro dan program KIPK selama periode tersebut.
+  </p>
+</div>
 
 ## Teams
 <div align="center">
