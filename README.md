@@ -37,18 +37,18 @@ Dataset train digunakan untuk melatih model dan terdiri dari dua sumber data uta
     - **Jumlah Data**: ±71000 tweet
     - **Sumber**: [PPKM Dataset](https://www.kaggle.com/datasets/anggapurnama/twitter-dataset-ppkm)
 
-### Dataset Test
-Dataset test digunakan untuk menguji kinerja model yang telah dilatih. Dataset ini diperoleh melalui proses scraping dari Twitter:
+### Dataset Scraping
+Dataset Scraping digunakan untuk mengetahui sentimen dengan model yang telah dilatih. Dataset ini diperoleh melalui proses scraping dari X:
 
 1. **Scraped Twitter Data**:
-    - **Deskripsi**: Dataset ini berisi tweet-tweet terbaru yang dikumpulkan dengan menggunakan teknik web scraping dari Twitter. Tweet-tweet ini berhubungan dengan penerima KIPK dan opini mereka.
+    - **Deskripsi**: Dataset ini berisi tweet-tweet terbaru yang dikumpulkan dengan menggunakan teknik web scraping dari X. Tweet-tweet ini berhubungan dengan penerima KIPK dan opini mereka.
     - **Jumlah Data**: ±4.000 tweet
     - **Tanggal Pengumpulan**: Mei 2024
     - **Scraper**: [Blog](https://helmisatria.com/blog/updated-crawl-data-twitter-x-maret-2024)
 
 ### Tujuan Penggunaan Dataset
 - **Dataset Train**: Melatih model untuk mengenali dan mengklasifikasikan sentimen dari tweet.
-- **Dataset Test**: Menguji kinerja model yang telah dilatih untuk memastikan model dapat bekerja dengan baik pada data baru yang belum pernah dilihat sebelumnya.
+- **Dataset Scrape**: Dataset hasil scraping ini akan digunakan untuk menganalisis sentimen publik dengan model yang telah dilatih menggunakan dataset pelatihan.
 
 Dengan pembagian dataset ini, kami dapat memastikan bahwa model yang dibangun dapat memprediksi sentimen dengan akurat baik pada data yang dikenal maupun data baru.
 
