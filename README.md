@@ -83,9 +83,9 @@ Dapat dilihat dari tabel di atas bahwa kombinasi biLSTM dengan GloVe memberikan 
     <img src="https://github.com/rizky-22017-mhs-unesa-ac-id/Sentiment-Analysis-of-KIPK-Recipients-based-on-Tweets-from-X/assets/82692777/3d996ddc-142a-4138-8888-0d2711dca0ae" alt="Report Video" width="600"/>
   </a>
 </div>
-
+## Hasil Analisis
+Berdasarkan hasil analisis sentimen, Universitas Diponegoro menjadi pusat perhatian di Twitter. Dalam rentang waktu 10 Juli 2023 hingga 30 April 2024, Universitas Diponegoro paling banyak mendapatkan mention dengan kata kunci ‘KIPK’. Hal ini menunjukkan bahwa ada banyak diskusi dan minat yang signifikan terkait dengan Universitas Diponegoro dan program KIPK selama periode tersebut
 ## Teams
-
 <div align="center">
   <table>
     <tr>
