@@ -2,7 +2,7 @@
   <h1>Sentiment Analysis of KIPK Recipients based on Tweets from X</h1>
   <blockquote>
     <p>Project ini memanfaatkan metode LSTM dalam memahami konteks temporal dan word embedding untuk merepresentasikan makna kata. Dengan kombinasi ini, model dapat memahami makna dan sentimen di balik setiap tweet.</p>
-    <p>Tujuan utama project ini adalah untuk menganalisis sentimen penerima KIPK melalui tweet. Hasilnya akan memberikan pemahaman tentang persepsi masyarakat terhadap program ini dan memberikan wawasan tentang bagaimana meningkatkan program ini di masa mendatang.</p>
+    <p>Tujuan utama project ini adalah untuk menganalisis sentimen penerima KIPK melalui tweet. Hasilnya akan digunakan untuk memberikan wawasan tentang bagaimana program ini diterima oleh masyarakat.</p>
   </blockquote>
 </div>
 
