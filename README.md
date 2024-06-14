@@ -16,6 +16,7 @@
     <li><a href="#license">Lisensi</a></li>
     <li><a href="#benchmark-model-accuracy-results">Benchmark Model Accuracy Results</a></li>
     <li><a href="#report">Report</a></li>
+    <li><a href="#Hasil Analisis">Hasil Analisis</a></li>
     <li><a href="#teams">Teams</a></li>
   </ul>
 </details>
