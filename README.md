@@ -23,9 +23,7 @@
 
 ## Dataset
 
-Pada proyek ini, kami membagi dataset menjadi dua bagian: dataset train dan dataset test.
-
-### Dataset Train
+### Dataset Training
 Dataset train digunakan untuk melatih model dan terdiri dari dua sumber data utama:
 
 1. **Twitter Emotion Dataset**:
@@ -46,10 +44,6 @@ Dataset Scraping digunakan untuk mengetahui sentimen dengan model yang telah dil
     - **Jumlah Data**: ±4.000 tweet
     - **Tanggal Pengumpulan**: Mei 2024
     - **Scraper**: [Blog](https://helmisatria.com/blog/updated-crawl-data-twitter-x-maret-2024)
-
-### Tujuan Penggunaan Dataset
-- **Dataset Train**: Melatih model untuk mengenali dan mengklasifikasikan sentimen dari tweet.
-- **Dataset Scrape**: Dataset hasil scraping ini akan digunakan untuk menganalisis sentimen publik dengan model yang telah dilatih menggunakan dataset pelatihan.
 
 
 ## Metode yang Digunakan
