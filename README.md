@@ -23,9 +23,7 @@
 
 ## Dataset
 
-Pada proyek ini, kami membagi dataset menjadi dua bagian: dataset train dan dataset test.
-
-### Dataset Train
+### Dataset Training
 Dataset train digunakan untuk melatih model dan terdiri dari dua sumber data utama:
 
 1. **Twitter Emotion Dataset**:
