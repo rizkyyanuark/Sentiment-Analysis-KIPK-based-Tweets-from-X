@@ -47,10 +47,6 @@ Dataset Scraping digunakan untuk mengetahui sentimen dengan model yang telah dil
     - **Tanggal Pengumpulan**: Mei 2024
     - **Scraper**: [Blog](https://helmisatria.com/blog/updated-crawl-data-twitter-x-maret-2024)
 
-### Tujuan Penggunaan Dataset
-- **Dataset Train**: Melatih model untuk mengenali dan mengklasifikasikan sentimen dari tweet.
-- **Dataset Scrape**: Dataset hasil scraping ini akan digunakan untuk menganalisis sentimen publik dengan model yang telah dilatih menggunakan dataset pelatihan.
-
 
 ## Metode yang Digunakan
 ![Metode yang Digunakan](https://github.com/rizky-22017-mhs-unesa-ac-id/Sentiment-Analysis-of-KIPK-Recipients-based-on-Tweets-from-X/assets/82692777/6fc06fc3-8c73-4a5f-b4d0-05d059b0f6c3)
