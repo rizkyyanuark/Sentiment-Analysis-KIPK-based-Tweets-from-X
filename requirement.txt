@@ -1,0 +1,6 @@
+pandas: 2.0.3
+numpy: 1.24.3
+seaborn: 0.13.2
+requests: 2.32.3
+Pillow: 10.3.0
+scikit-learn: 1.1.2
